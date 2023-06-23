@@ -2,7 +2,7 @@
 
 /**
  * swap_nodes - func to swap two nodes
- * 	in a listint_t doubly-linked list.
+ *	in a listint_t doubly-linked list.
  * @h: Points to head of the doubly-linked list.
  * @n1: Points to the first node to swap.
  * @n2: Second node to swap.
